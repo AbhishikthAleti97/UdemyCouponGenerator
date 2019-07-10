@@ -1,0 +1,5 @@
+c_id = ""
+c_secret = ""
+u_agent = ""
+u_name = ""
+u_pass = ""
